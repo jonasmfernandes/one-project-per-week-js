@@ -18,23 +18,23 @@ function getScore(score) {
   } else if (scoreF) {
     scoreFinal = "F";
   } else {
-    scoreFinal = "N/a nota";
+    scoreFinal = "Nota inválida.";
   }
 
   return scoreFinal;
 }
 
-console.log(getScore(100));
-console.log(getScore(100));
-console.log(getScore(100));
-console.log(getScore(100));
-console.log(getScore(90));
-console.log(getScore(100));
-console.log(getScore(100));
-console.log(getScore(80));
-console.log(getScore(90));
-console.log(getScore(100));
-console.log(getScore(100));
-console.log(getScore(90));
-
+// coloque sua nota dentro de () exemplo: console.log(getScore(70));
+console.log(getScore(85));
+console.log(getScore(85));
+console.log(getScore(85));
+console.log(getScore(85));
+console.log(getScore(85));
+console.log(getScore(85));
+console.log(getScore(85));
+console.log(getScore(85));
+console.log(getScore(85));
+console.log(getScore(85));
+console.log(getScore(85));
+console.log(getScore(85));
 
