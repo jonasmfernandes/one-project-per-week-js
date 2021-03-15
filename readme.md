@@ -58,3 +58,15 @@ Esse projeto tem a finalidade de converter graus Celsius para Fahrenheit ou vice
 _This project has the purpose of converting degrees Celsius to Fahrenheit or vice versa. Quote the desired temperature and console.log will show the conversion._ 
 
 [Degree-Converter](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/degree-converter)
+
+- - - 
+
+# Autor - _Author_
+
+<img src="img/think.jpeg" width="150">
+</br>
+Feito por Jonas Fernandes. Entre em contato!
+
+Made by Jonas Fernandes. Contact!
+
+[<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/joninhasmf/) [<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jonas-monteiro-fernandes-a676641b7/)
