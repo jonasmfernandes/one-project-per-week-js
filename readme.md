@@ -9,6 +9,7 @@
    * [Tecnologias - _Technologies_](#tecnologias-_technologies_)
    * [Projetos - _Projects_](#projetos-_projects_)
      * [#01 Notas Escolares - _School Grades_](#notas-escolares-_school-grades_)
+     * [#02 Renda Familiar - _Family Income_](#renda-familiar-_family-income_)
    * [Autor - _Author_](#autor-_author_)
 
 # Sobre - _About_
@@ -41,3 +42,11 @@ _This project has the idea of ​​converting numerical notes into concept note
 [Score](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/score)
 
 - - - 
+
+## Renda Familiar - _Family Income_
+
+Esse projeto serve para você ver a sua renda familiar. Funciona da seguinte forma: Você cita sua renda, exemplo (3000 de salário) e suas despesas, exemplo (250 de água e 50 de gás) no console.log vai te mostrar se você está devendo ou se está sobrando e a quantidade.
+
+_This project is for you to see your family income. It works as follows: You quote your income, example (3000 of salary) and your expenses, example (250 of water and 50 of gas) in console.log will show you if you owe or if you are left over and the amount._
+
+[Family-Income](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/family-income)
