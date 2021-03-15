@@ -36,6 +36,8 @@ _All projects will be listed here._
 
 Esse projeto tem a ideia de converter notas númericas em notas conceituais usando console.log.
 
+_This project has the idea of ​​converting numerical notes into concept notes using console.log._
+
 [Score](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/score)
 
 - - - 
