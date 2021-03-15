@@ -2,7 +2,7 @@
 
 <div align="center"> 
 <a href="https://github.com/jonasmfernandes/one-project-per-day-js/blob/main/readme-pt.md">Português</p> 
-<a href="https://github.com/jonasmfernandes/one-project-per-day-js/blob/main/readme.md">English</p>
+<a href="https://github.com/jonasmfernandes/one-project-per-day-js/blob/main/readme.md" target="_blank">English</p>
 </div>
 
 <h2 align="center">Um projeto por dia JS</h1>

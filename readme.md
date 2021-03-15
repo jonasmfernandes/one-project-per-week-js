@@ -1,7 +1,7 @@
 <img src="img/Screenshot%20from%202021-03-15%2011-23-59.png">
 
 <div align="center"> 
-<a href="https://github.com/jonasmfernandes/one-project-per-day-js/blob/main/readme-pt.md">Portuguese</p> 
+<a href="https://github.com/jonasmfernandes/one-project-per-day-js/blob/main/readme-pt.md"target="_blank">Portuguese</p> 
 <a href="https://github.com/jonasmfernandes/one-project-per-day-js/blob/main/readme.md">English</p>
 </div>
 
