@@ -2,21 +2,19 @@
 
 <h2 align="center">One Project per day JS - Um projeto por dia JS</h1>
 
-
-  
 # Índice - _Index_
    * [Sobre - _About_](#sobre-_about_)
    * [Tecnologias - _Technologies_](#tecnologias-_technologies_)
    * [Projetos - _Projects_](#projetos-_projects_)
      * [#01 Notas Escolares - _School Grades_](#notas-escolares-_school-grades_)
      * [#02 Renda Familiar - _Family Income_](#renda-familiar-_family-income_)
+     * [#03 Conversor de Temperaturas - _Temperature Converter_](#conversor-de-temperaturas-_temperature-converter_)
    * [Autor - _Author_](#autor-_author_)
 
 # Sobre - _About_
 Esse repositório foi criado com o propósito de colocar em prática o que estou aprendendo na linguagem JavaScript. Colocarei projetos todos os dias úteis de semana. 
 
 _This repository was created with the purpose of putting into practice what I am learning in the JavaScript language. I will post projects every weekday._
-
 
 - - -
 # Tecnologias - _Technologies_
@@ -45,8 +43,18 @@ _This project has the idea of ​​converting numerical notes into concept note
 
 ## Renda Familiar - _Family Income_
 
-Esse projeto serve para você ver a sua renda familiar. Funciona da seguinte forma: Você cita sua renda, exemplo (3000 de salário) e suas despesas, exemplo (250 de água e 50 de gás) no console.log vai te mostrar se você está devendo ou se está sobrando e a quantidade.
+Esse projeto serve para você ver a sua renda familiar. Funciona da seguinte forma: Você cita sua renda, exemplo (3000 de salário) e suas despesas, exemplo (250 de água e 50 de gás). E então o console.log vai te mostrar se você está devendo ou se está sobrando e a quantidade.
 
-_This project is for you to see your family income. It works as follows: You quote your income, example (3000 of salary) and your expenses, example (250 of water and 50 of gas) in console.log will show you if you owe or if you are left over and the amount._
+_This project is for you to see your family income. It works as follows: You quote your income, example (3000 of salary) and your expenses, example (250 of water and 50 of gas). And then console.log will show you if you owe or if you are left over and the amount._
 
 [Family-Income](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/family-income)
+
+- - - 
+
+## Conversor de Temperaturas - _Temperature Converter_
+
+Esse projeto tem a finalidade de converter graus Celsius para Fahrenheit ou vice-versa. Cite a temperatura desejada e o console.log irá mostrar a conversão. 
+
+_This project has the purpose of converting degrees Celsius to Fahrenheit or vice versa. Quote the desired temperature and console.log will show the conversion._ 
+
+[Degree-Converter](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/degree-converter)
