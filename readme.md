@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Projects-3-%23F7DF1E">
 
 - - -
-   * [Sobre](#Sobre-_About_)
+   * [Sobre](#sobre-_about_)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
