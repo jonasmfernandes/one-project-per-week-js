@@ -64,9 +64,16 @@ _This project has the purpose of converting degrees Celsius to Fahrenheit or vic
 # Autor - _Author_
 
 <img src="img/think.jpeg" width="150">
-</br>
+
 Feito por Jonas Fernandes. Entre em contato!
 
-Made by Jonas Fernandes. Contact!
+_Made by Jonas Fernandes. Contact!_
 
 [<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/joninhasmf/) [<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jonas-monteiro-fernandes-a676641b7/)
+
+- - -
+
+# Licença - _License_
+Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
+
+_This project is under the license [MIT](https://opensource.org/licenses/MIT)._
