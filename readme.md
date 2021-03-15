@@ -16,3 +16,10 @@ Esse repositório foi criado com o propósito de colocar em prática o que estou
 _This repository was created with the purpose of putting into practice what I am learning in the JavaScript language. I will post projects every weekday._
 
 <img src="https://img.shields.io/badge/Projects-3-%23F7DF1E">
+
+- - -
+# Tecnologias - _Technologies_
+
+- HTML5
+- JavaScript
+
