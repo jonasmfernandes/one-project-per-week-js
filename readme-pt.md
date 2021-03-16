@@ -14,6 +14,7 @@
      * [#01 Notas Escolares](#notas-escolares)
      * [#02 Renda Familiar](#renda-familiar)
      * [#03 Conversor de Temperaturas](#conversor-de-temperaturas)
+     * [#04 Lista a fazeres](#lista-a-fazeres)
    * [Autor](#autor)
    * [Licença](#licença)
 
@@ -25,6 +26,7 @@ Esse repositório foi criado com o propósito de colocar em prática o que estou
 # Tecnologias
 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 - - -
@@ -33,7 +35,7 @@ Esse repositório foi criado com o propósito de colocar em prática o que estou
 Aqui serão listados todos os projetos.
 
 
-<img src="https://img.shields.io/badge/Projetos-3-%23F7DF1E">
+<img src="https://img.shields.io/badge/Projetos-4-%23F7DF1E">
 
 ## Notas escolares
 
@@ -59,6 +61,13 @@ Esse projeto tem a finalidade de converter graus Celsius para Fahrenheit ou vice
 
 - - - 
 
+## Lista a fazeres 
+
+Este projeto é uma lista a fazeres. Só escrever o que você precisa fazer e ela irá listar embaixo do campo de texto. Dois cliques e você irá excluir o item. 
+
+[To-do-list](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/to-do-list)
+
+Este projeto está sendo hosteado pelo Netlify: <a href="http://todolist-jonasmfernandes.netlify.app">To-do List</a>
 # Autor
 
 <img src="img/think.jpeg" width="150">
