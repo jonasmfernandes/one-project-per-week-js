@@ -64,6 +64,9 @@ This project has the purpose of converting degrees Celsius to Fahrenheit or vice
 This project is a to-do list. Just write what you need to do and it will list it below the text field. Two clicks and you will delete the item.
 
 [To-do-list](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/to-do-list)
+
+This project are been hosted by Netlify: <a href="http://todolist-jonasmfernandes.netlify.app">To-do List</a>
+- - - 
 # Author
 
 <img src="img/think.jpeg" width="150">
