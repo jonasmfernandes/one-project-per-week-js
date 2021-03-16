@@ -26,6 +26,7 @@ This repository was created with the purpose of putting into practice what I am 
 # Technologies
 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 - - -
@@ -33,7 +34,7 @@ This repository was created with the purpose of putting into practice what I am 
 
 All projects will be listed here.
 
-<img src="https://img.shields.io/badge/Projects-3-%23F7DF1E">
+<img src="https://img.shields.io/badge/Projects-4-%23F7DF1E">
 
 ## School Grades
 
