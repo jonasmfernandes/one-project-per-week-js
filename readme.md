@@ -14,6 +14,7 @@
      * [#01 School Grades](#school-grades)
      * [#02 Family Income](#family-income)
      * [#03 Temperature Converter](#temperature-converter)
+     * [#04 To-do List](#to-do-list)
    * [Author](#author)
    * [License](#license)
 
@@ -57,6 +58,10 @@ This project has the purpose of converting degrees Celsius to Fahrenheit or vice
 [Degree-Converter](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/degree-converter)
 
 - - - 
+
+## To-do list
+
+This project is a to-do list. Just write what you need to do and it will list it below the text field. Two clicks and you will delete the item.
 
 # Author
 
