@@ -15,6 +15,7 @@
      * [#02 Renda Familiar](#renda-familiar)
      * [#03 Conversor de Temperaturas](#conversor-de-temperaturas)
      * [#04 Lista a fazeres](#lista-a-fazeres)
+     * [#05 Gerador de Parágrafos](#gerador-de-parágrafos)
    * [Autor](#autor)
    * [Licença](#licença)
 
@@ -35,7 +36,7 @@ Esse repositório foi criado com o propósito de colocar em prática o que estou
 Aqui serão listados todos os projetos.
 
 
-<img src="https://img.shields.io/badge/Projetos-4-%23F7DF1E">
+<img src="https://img.shields.io/badge/Projetos-5-%23F7DF1E">
 
 ## Notas escolares
 
@@ -68,6 +69,18 @@ Este projeto é uma lista a fazeres. Só escrever o que você precisa fazer e el
 [To-do-list](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/to-do-list)
 
 Este projeto está sendo hosteado pelo Netlify: <a href="http://todolist-jonasmfernandes.netlify.app">To-do List</a>
+
+- - -
+
+## Gerador de parágrafos
+
+Este projeto é mais elaborado e visualmente mais bonito. É um gerador de paragrafos / texto, apenas digite quantos paragráfos você quer de 0 a 5 e ele te mostrará os parágrafos correspondentes.
+
+[Paragraph-generator](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/paragraph-generator)
+
+Este projeto está sendo hosteado pelo Netlify: <a href="http://paragraph-generator-jonasmont.netlify.app">Paragraph generator</a>
+
+
 # Autor
 
 <img src="img/think.jpeg" width="150">
