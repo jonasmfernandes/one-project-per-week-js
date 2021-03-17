@@ -1,0 +1,44 @@
+* {
+
+  background-color: #202020;
+  box-sizing: border-box;
+  font-family: 'Open Sans Condensed', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h3, form {
+  margin-top: 30px;
+  text-align: center; 
+  color: white;
+}
+
+.lorem-text {
+  font-size: 1.3em;
+  margin: 50px auto;
+  width: 40%;
+  color: white;
+}
+
+label {
+  font-size: 1.3rem;
+}
+
+#amount {
+  background-color: white;
+  border-color: none;
+  border-radius: 5px;
+  color: black;
+  font-size: 1.2rem;
+  outline: none;
+  width:200px;
+}
+
+.btn {
+  background-color: #fff;
+  border-radius: 5px;
+  color: #202020;
+  font-size: 1rem;
+  padding: 2px 8px;
+}
+  
