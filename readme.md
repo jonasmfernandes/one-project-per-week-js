@@ -15,6 +15,7 @@
      * [#02 Family Income](#family-income)
      * [#03 Temperature Converter](#temperature-converter)
      * [#04 To-do List](#to-do-list)
+     * [#05 Paragraph Generator](#paragraph-generator)
    * [Author](#author)
    * [License](#license)
 
@@ -34,7 +35,7 @@ This repository was created with the purpose of putting into practice what I am 
 
 All projects will be listed here.
 
-<img src="https://img.shields.io/badge/Projects-4-%23F7DF1E">
+<img src="https://img.shields.io/badge/Projects-5-%23F7DF1E">
 
 ## School Grades
 
@@ -66,8 +67,20 @@ This project is a to-do list. Just write what you need to do and it will list it
 
 [To-do-list](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/to-do-list)
 
-This project are been hosted by Netlify: <a href="http://todolist-jonasmfernandes.netlify.app">To-do List</a>
+This project is being hosted by Netlify: <a href="http://todolist-jonasmfernandes.netlify.app">To-do List</a>
+
 - - - 
+
+## Paragraph Generator
+
+This design is more elaborate and visually more beautiful. It is a paragraph / text generator, just type in as many parameters as you want from 0 to 5 and it will show you the corresponding paragraphs.
+
+[Paragraph-generator](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/paragraph-generator)
+
+This project is being hosted by Netlify: <a href="http://paragraph-generator-jonasmont.netlify.app">Paragraph generator</a>
+
+- - -
+
 # Author
 
 <img src="img/think.jpeg" width="150">
