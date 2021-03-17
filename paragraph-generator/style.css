@@ -43,3 +43,20 @@ label {
   padding: 2px 8px;
 }
   
+@media (max-width: 768px){
+  .lorem-text {
+    width: 70%;
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width:425px){
+  .lorem-text {
+    width: 80%;
+    font-size: 1rem;
+    margin-top: 20px;
+  }
+  #amount {
+    width: 100px;
+  }
+}
