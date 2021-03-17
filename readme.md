@@ -73,7 +73,7 @@ This project is being hosted by Netlify: <a href="http://todolist-jonasmfernande
 
 ## Paragraph Generator
 
-This design is more elaborate and visually more beautiful. It is a paragraph / text generator, just type in as many parameters as you want from 0 to 5 and it will show you the corresponding paragraphs.
+This design is more elaborate and visually more beautiful. It is a paragraph / text generator, just type in as many paragraphs as you want from 0 to 5 and it will show you the corresponding paragraphs.
 
 [Paragraph-generator](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/paragraph-generator)
 
