@@ -16,6 +16,7 @@
      * [#03 Temperature Converter](#temperature-converter)
      * [#04 To-do List](#to-do-list)
      * [#05 Paragraph Generator](#paragraph-generator)
+     * [#06 Modal](#modal)
    * [Author](#author)
    * [License](#license)
 
@@ -35,7 +36,7 @@ This repository was created with the purpose of putting into practice what I am 
 
 All projects will be listed here.
 
-<img src="https://img.shields.io/badge/Projects-5-%23F7DF1E">
+<img src="https://img.shields.io/badge/Projects-6-%23F7DF1E">
 
 ## School Grades
 
@@ -80,6 +81,16 @@ This design is more elaborate and visually more beautiful. It is a paragraph / t
 This project is being hosted by Netlify: <a href="http://paragraph-generator-jonasmont.netlify.app">Paragraph generator</a>
 
 - - -
+
+## Modal
+
+This is my second project using DOM manipulation. It is a simple modal, but I learned a lot how to use: ```event.stopPropagation ().```
+
+[Modal](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/modal)
+
+This project is being hosted by Netlify: <a href="http://modal-jonasmont.netlify.app">Modal</a>
+
+- - - 
 
 # Author
 
