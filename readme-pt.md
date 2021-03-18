@@ -16,6 +16,7 @@
      * [#03 Conversor de Temperaturas](#conversor-de-temperaturas)
      * [#04 Lista a fazeres](#lista-a-fazeres)
      * [#05 Gerador de Parágrafos](#gerador-de-parágrafos)
+     * [#06 Modal](#modal)
    * [Autor](#autor)
    * [Licença](#licença)
 
@@ -36,7 +37,7 @@ Esse repositório foi criado com o propósito de colocar em prática o que estou
 Aqui serão listados todos os projetos.
 
 
-<img src="https://img.shields.io/badge/Projetos-5-%23F7DF1E">
+<img src="https://img.shields.io/badge/Projetos-6-%23F7DF1E">
 
 ## Notas escolares
 
@@ -80,6 +81,17 @@ Este projeto é mais elaborado e visualmente mais bonito. É um gerador de parag
 
 Este projeto está sendo hosteado pelo Netlify: <a href="http://paragraph-generator-jonasmont.netlify.app">Paragraph generator</a>
 
+- - -
+
+## Modal 
+
+Este é meu segundo projeto utilizando a manipulação da DOM. É um simples modal, porém aprendi bastante como utilizar ```event.stopPropagation().```
+
+[Modal](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/modal)
+
+Este projeto está sendo hosteado pelo Netlify: <a href="http://modal-jonasmont.netlify.app">Modal</a>
+
+- - - 
 
 # Autor
 
