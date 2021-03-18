@@ -2,12 +2,16 @@ html, body{
   margin: 0 auto;
   width: 50%;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: #202020;
 }
 
 .container {
   width: 360px;
 }
 
+h1 {
+  color: white;
+}
 #inputField {
   width: 300px;
   height: 46px;
@@ -21,9 +25,9 @@ html, body{
   height: 50px;
   width: 50px;
   border-radius: 10px;
-  vertical-align: middle;
   font-size: 30px;
-  
+  vertical-align: middle;
+  background-color: white;
 }
 
 .to-dos {
@@ -33,5 +37,6 @@ html, body{
 .paragraph-styling {
   margin: 0;
   cursor: pointer;
-  font-size: 20px;
+  font-size: 1.7rem;
+  color: white;
 }
