@@ -56,3 +56,9 @@ label {
   margin-top: 3vh;
   font-size: 1.2rem;
 }
+
+@media(max-width: 576px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+}
