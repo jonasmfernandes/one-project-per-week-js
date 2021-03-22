@@ -17,6 +17,7 @@
      * [#04 To-do List](#to-do-list)
      * [#05 Paragraph Generator](#paragraph-generator)
      * [#06 Modal](#modal)
+     * [#07 Euro Converter](#euro-converter)
    * [Author](#author)
    * [License](#license)
 
@@ -36,7 +37,7 @@ This repository was created with the purpose of putting into practice what I am 
 
 All projects will be listed here.
 
-<img src="https://img.shields.io/badge/Projects-6-%23F7DF1E">
+<img src="https://img.shields.io/badge/Projects-7-%23F7DF1E">
 
 ## School Grades
 
@@ -92,6 +93,15 @@ This project is being hosted by Netlify: <a href="http://modal-jonasmont.netlify
 
 - - - 
 
+## Euro Converter
+
+This is my third project using DOM manipulation. It is a euro converter. 
+
+[Euro Converter](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/euro-converter)
+
+This project is being hosted by Netlify: <a href="http://euroconverter-jonasmont.netlify.app">Euro Converter</a>
+
+- - -
 # Author
 
 <img src="img/think.jpeg" width="150">
