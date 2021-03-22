@@ -46,6 +46,10 @@ Esse projeto tem a ideia de converter notas númericas em notas conceituais usan
 
 [Score](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/score)
 
+Code:
+
+<img src="img/score.png" height="500px">
+
 - - - 
 
 ## Renda Familiar
@@ -54,6 +58,10 @@ Esse projeto serve para você ver a sua renda familiar. Funciona da seguinte for
 
 [Family-Income](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/family-income)
 
+Code:
+
+<img src="img/family.png" width="500px">
+
 - - - 
 
 ## Conversor de Temperaturas
@@ -61,6 +69,10 @@ Esse projeto serve para você ver a sua renda familiar. Funciona da seguinte for
 Esse projeto tem a finalidade de converter graus Celsius para Fahrenheit ou vice-versa. Cite a temperatura desejada e o console.log irá mostrar a conversão. 
 
 [Degree-Converter](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/degree-converter)
+
+Code:
+
+<img src="img/degree.png" width="700px">
 
 - - - 
 
@@ -72,6 +84,10 @@ Este projeto é uma lista a fazeres. Só escrever o que você precisa fazer e el
 
 Este projeto está sendo hosteado pelo Netlify: <a href="http://todolist-jonasmfernandes.netlify.app">To-do List</a>
 
+Code: 
+
+<img src="img/to-do-list.png" width="500px">
+
 - - -
 
 ## Gerador de parágrafos
@@ -81,6 +97,10 @@ Este projeto é mais elaborado e visualmente mais bonito. É um gerador de parag
 [Paragraph-generator](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/paragraph-generator)
 
 Este projeto está sendo hosteado pelo Netlify: <a href="http://paragraph-generator-jonasmont.netlify.app">Paragraph generator</a>
+
+Code : 
+
+<img src="img/paragraph.png" height="600px">
 
 - - -
 
@@ -92,6 +112,10 @@ Este é meu segundo projeto utilizando a manipulação da DOM. É um simples mod
 
 Este projeto está sendo hosteado pelo Netlify: <a href="http://modal-jonasmont.netlify.app">Modal</a>
 
+Code:
+
+<img src="img/modal.png" width="500px">
+
 - - - 
 
 ## Conversor de Euro
@@ -101,6 +125,10 @@ Este é meu terceiro projeto utilizando a manipulação da DOM. É um conversor 
 [Euro Converter](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/modal)
 
 Este projeto está sendo hosteado pelo Netlify: <a href="http://modal-jonasmont.netlify.app">Modal</a>
+
+Code: 
+
+<img src="img/euro-converter.png" width="500px">
 
 - - -
 # Autor
