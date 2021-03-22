@@ -17,6 +17,7 @@
      * [#04 Lista a fazeres](#lista-a-fazeres)
      * [#05 Gerador de Parágrafos](#gerador-de-parágrafos)
      * [#06 Modal](#modal)
+     * [#07 Conversor de Euro](#conversor-de-euro)
    * [Autor](#autor)
    * [Licença](#licença)
 
@@ -37,7 +38,7 @@ Esse repositório foi criado com o propósito de colocar em prática o que estou
 Aqui serão listados todos os projetos.
 
 
-<img src="https://img.shields.io/badge/Projetos-6-%23F7DF1E">
+<img src="https://img.shields.io/badge/Projetos-7-%23F7DF1E">
 
 ## Notas escolares
 
@@ -93,6 +94,15 @@ Este projeto está sendo hosteado pelo Netlify: <a href="http://modal-jonasmont.
 
 - - - 
 
+## Conversor de Euro
+
+Este é meu terceiro projeto utilizando a manipulação da DOM. É um conversor de euro para real.
+
+[Euro Converter](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/modal)
+
+Este projeto está sendo hosteado pelo Netlify: <a href="http://modal-jonasmont.netlify.app">Modal</a>
+
+- - -
 # Autor
 
 <img src="img/think.jpeg" width="150">
