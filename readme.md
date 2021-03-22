@@ -45,6 +45,10 @@ This project has the idea of ​​converting numerical notes into concept notes
 
 [Score](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/score)
 
+Code:
+
+<img src="img/score.png" height="500px">
+
 - - - 
 
 ## Family Income
@@ -53,6 +57,10 @@ This project is for you to see your family income. It works as follows: You quot
 
 [Family-Income](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/family-income)
 
+Code:
+
+<img src="img/family.png" width="500px">
+
 - - - 
 
 ## Temperature Converter
@@ -60,6 +68,10 @@ This project is for you to see your family income. It works as follows: You quot
 This project has the purpose of converting degrees Celsius to Fahrenheit or vice versa. Quote the desired temperature and console.log will show the conversion.
 
 [Degree-Converter](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/degree-converter)
+
+Code:
+
+<img src="img/degree.png" width="700px">
 
 - - - 
 
@@ -71,6 +83,10 @@ This project is a to-do list. Just write what you need to do and it will list it
 
 This project is being hosted by Netlify: <a href="http://todolist-jonasmfernandes.netlify.app">To-do List</a>
 
+Code: 
+
+<img src="img/to-do-list.png" width="500px">
+
 - - - 
 
 ## Paragraph Generator
@@ -80,6 +96,10 @@ This design is more elaborate and visually more beautiful. It is a paragraph / t
 [Paragraph-generator](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/paragraph-generator)
 
 This project is being hosted by Netlify: <a href="http://paragraph-generator-jonasmont.netlify.app">Paragraph generator</a>
+
+Code : 
+
+<img src="img/paragraph.png" height="600px">
 
 - - -
 
@@ -91,6 +111,10 @@ This is my second project using DOM manipulation. It is a simple modal, but I le
 
 This project is being hosted by Netlify: <a href="http://modal-jonasmont.netlify.app">Modal</a>
 
+Code:
+
+<img src="img/modal.png" width="500px">
+
 - - - 
 
 ## Euro Converter
@@ -100,6 +124,10 @@ This is my third project using DOM manipulation. It is a euro converter.
 [Euro Converter](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/euro-converter)
 
 This project is being hosted by Netlify: <a href="http://euroconverter-jonasmont.netlify.app">Euro Converter</a>
+
+Code: 
+
+<img src="img/euro-converter.png" width="500px">
 
 - - -
 # Author
