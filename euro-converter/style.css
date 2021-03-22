@@ -31,7 +31,7 @@ label {
   margin-bottom: 3vh;
 }
 
-.calc {
+#calc {
   font-size: 1.2rem;
   background-color: #202020;
   color: #fff;
@@ -42,8 +42,17 @@ label {
   transition: 0.2s;
 }
 
-.calc:hover {
+#calc:hover {
   background-color: #fff;
   color: #202020;
   transition: 0.2s;
+}
+
+#saida {
+  margin-top: 3vh;
+}
+
+#text {
+  margin-top: 3vh;
+  font-size: 1.2rem;
 }
