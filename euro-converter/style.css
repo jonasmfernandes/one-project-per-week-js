@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Dosis', sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../img/bg-france.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 3vh;
+}
+
+label {
+  font-size: 1.5rem;
+  margin-bottom: 3vh;
+}
+
+.calc {
+  font-size: 1.2rem;
+  background-color: #202020;
+  color: #fff;
+  margin-top: 3vh;
+  padding: 5px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.calc:hover {
+  background-color: #fff;
+  color: #202020;
+  transition: 0.2s;
+}
