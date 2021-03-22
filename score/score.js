@@ -16,7 +16,7 @@ function getScore(score) {
   } else if (scoreD) {
     scoreFinal = "D";
   } else if (scoreF) {
-    scoreFinal = "F";
+    scoreFinal = "E";
   } else {
     scoreFinal = "Nota inválida.";
   }
@@ -25,16 +25,16 @@ function getScore(score) {
 }
 
 // coloque sua nota dentro de () exemplo: console.log(getScore(70));
-console.log(getScore(85));
-console.log(getScore(85));
-console.log(getScore(85));
-console.log(getScore(85));
-console.log(getScore(85));
-console.log(getScore(85));
-console.log(getScore(85));
-console.log(getScore(85));
-console.log(getScore(85));
-console.log(getScore(85));
-console.log(getScore(85));
-console.log(getScore(85));
+console.log(getScore(90));
+console.log(getScore(78));
+console.log(getScore(84));
+console.log(getScore(93));
+console.log(getScore(100));
+console.log(getScore(47));
+console.log(getScore(89));
+console.log(getScore(62));
+console.log(getScore(99));
+console.log(getScore(72));
+console.log(getScore(61));
+console.log(getScore(52));
 

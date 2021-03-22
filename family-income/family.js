@@ -1,7 +1,7 @@
 let family = {
-  // coloque a renda de sua familia dentro de [] e despesas dentro de []
-  incomes: [1300, 2000, 500, 100],
-  expanses: [125.5, 59.1, 210.31, 1600.0],
+  // coloque a renda de sua familia dentro de incomes[] e despesas dentro de expanses[]
+  incomes: [3000, 2500, 150,],
+  expanses: [200, 150, 50, 1400, 600],
 };
 
 function sum(array) {
@@ -21,9 +21,9 @@ function calculateBalance() {
 
   const itsOk = total >= 0;
 
-  let balanceText = " Negativo ";
+  let balanceText = "Negativo ";
   if (itsOk) {
-    balanceText = " Positivo ";
+    balanceText = "Positivo ";
   }
 
   console.log(`Seu saldo é ${balanceText}: ${total.toFixed(2)} R$ `);
