@@ -5,7 +5,7 @@
 <a href="https://github.com/jonasmfernandes/one-project-per-day-js/blob/main/readme.md" target="_blank">English</p>
 </div>
 
-<h2 align="center">Um projeto por dia JS</h1>
+<h2 align="center">Um projeto por semana JS</h1>
 
 # Índice
    * [Sobre](#sobre)
