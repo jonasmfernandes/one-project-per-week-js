@@ -5,7 +5,7 @@
 <a href="https://github.com/jonasmfernandes/one-project-per-day-js/blob/main/readme.md">English</p>
 </div>
 
-<h2 align="center">One Project per day JS</h1>
+<h2 align="center">One Project per week JS</h1>
 
 # Index
    * [About](#about)
@@ -23,7 +23,7 @@
 
 # About
 
-This repository was created with the purpose of putting into practice what I am learning in the JavaScript language. I will post projects every weekday.
+This repository was created with the purpose of putting into practice what I am learning in the JavaScript language. I will post one project per week.
 
 - - -
 # Technologies

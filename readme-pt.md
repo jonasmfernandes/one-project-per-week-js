@@ -23,7 +23,7 @@
 
 # Sobre
 
-Esse repositório foi criado com o propósito de colocar em prática o que estou aprendendo na linguagem JavaScript. Colocarei projetos todos os dias úteis de semana. 
+Esse repositório foi criado com o propósito de colocar em prática o que estou aprendendo na linguagem JavaScript. Colocarei um projeto por semana. 
 
 - - -
 # Tecnologias
