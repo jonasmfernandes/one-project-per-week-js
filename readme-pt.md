@@ -18,12 +18,13 @@
      * [#05 Gerador de Parágrafos](#gerador-de-parágrafos)
      * [#06 Modal](#modal)
      * [#07 Conversor de Euro](#conversor-de-euro)
+     * [#08 Bola de cristal](#bola-de-cristal) 
    * [Autor](#autor)
    * [Licença](#licença)
 
 # Sobre
 
-Esse repositório foi criado com o propósito de colocar em prática o que estou aprendendo na linguagem JavaScript. Colocarei um projeto por semana. 
+Esse repositório foi criado com o propósito de colocar em prática o que estou aprendendo na linguagem JavaScript. Colocarei um projeto por. 
 
 - - -
 # Tecnologias
@@ -122,13 +123,27 @@ Code:
 
 Este é meu terceiro projeto utilizando a manipulação da DOM. É um conversor de euro para real.
 
-[Euro Converter](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/modal)
+[Euro Converter](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/euro-converter)
 
-Este projeto está sendo hosteado pelo Netlify: <a href="http://modal-jonasmont.netlify.app">Modal</a>
+Este projeto está sendo hosteado pelo Netlify: <a href="https://euroconverter-jonasmont.netlify.app">Conversor de Euro</a>
 
 Code: 
 
 <img src="img/euro-converter.png" width="500px">
+
+- - -
+
+## Bola de cristal
+
+Este projeto foi feito utilizando a manipulação da DOM. É um adivinhador de respostas.
+
+[Bola de Cristal](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/marathon-rocketseat)
+
+Este projeto está sendo hosteado pelo Netlify: <a href="https://destiny-jonas.netlify.app">Bola de cristal</a>
+
+Code: 
+
+<img src="img/marathon-js.png" width="500px">
 
 - - -
 # Autor
