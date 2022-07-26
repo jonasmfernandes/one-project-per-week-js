@@ -37,8 +37,4 @@ function fazerPergunta() {
     elementoResposta.style.opacity = 0;
     buttonPerguntar.removeAttribute("disabled");
   }, 3000);
-
-  if (numeroAleatorio == 0){
-    certeza.innerHTML = "fatos"
-  }
 }

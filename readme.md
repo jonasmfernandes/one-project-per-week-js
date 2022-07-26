@@ -18,6 +18,7 @@
      * [#05 Paragraph Generator](#paragraph-generator)
      * [#06 Modal](#modal)
      * [#07 Euro Converter](#euro-converter)
+     * [#08 Crystal Ball](#crystal-ball)
    * [Author](#author)
    * [License](#license)
 
@@ -131,7 +132,7 @@ Code:
 
 - - -
 
-## Bola de cristal
+## Crystal Ball
 
 
 This project was made using DOM manipulation. It is an answer guesser.
