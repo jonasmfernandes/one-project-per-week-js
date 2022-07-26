@@ -130,6 +130,22 @@ Code:
 <img src="img/euro-converter.png" width="500px">
 
 - - -
+
+## Bola de cristal
+
+
+This project was made using DOM manipulation. It is an answer guesser.
+
+[Crystal Ball](https://github.com/jonasmfernandes/one-project-per-day-js/tree/main/marathon-rocketseat)
+
+This project is being hosted by Netlify: <a href="https://destiny-jonas.netlify.app">Bola de cristal</a>
+
+Code: 
+
+<img src="img/marathon-js.png" width="500px">
+
+- - -
+
 # Author
 
 <img src="img/think.jpeg" width="150">
